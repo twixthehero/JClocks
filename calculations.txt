@@ -1,0 +1,21 @@
+12-hour clock
+
+1 day = 24 hours = 1440 minutes = 86400 seconds = 86400000 milliseconds
+
+1 hour = 60 minutes = 3600 seconds = 3600000 milliseconds
+
+1 minute = 60 seconds = 60000 milliseconds
+
+1 second = 1000 milliseconds
+
+
+
+10-hour clock
+
+1 day = 20 hours = 1440 minutes = 86400 seconds = 86400000 milliseconds
+
+1 hour = 72 minutes = 4320 seconds = 4320000 milliseconds
+
+1 minute = 60 seconds = 60000 milliseconds
+
+1 second = 1000 milliseconds
